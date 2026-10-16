@@ -1,9 +1,6 @@
 'use strict'
-//ex 1
-let myName = "Andrii";
-//ex 2
-const birthYear = 2006;
-//ex 3
+let myName = "Dima";
+const birthYear = 2008;
 const sayHello = (name) => {
     console.log("Hello, " + name + "!");
 };
