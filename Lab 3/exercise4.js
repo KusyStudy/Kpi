@@ -22,4 +22,4 @@ const iface = {
     version: 1
 };
 
-console.log(introspect(iface)); //[ [ 'm1', 1 ], [ 'm2', 2 ], [ 'm3', 3 ] ]
+console.log(introspect(iface));
