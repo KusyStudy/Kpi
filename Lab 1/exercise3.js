@@ -1,9 +1,9 @@
 'use strict';
 
 const arr = [
-  true, 'hello', 5, 12, -200, false, false, 'word',
-  12, true, 'ivanka', 'football', 'gym', 'Billy Herington',
-  true, 2131, 78.3, undefined, null, { name: 'ben' }, [1, 2, 3],
+  false, 'apple', 42, 7, -15, true, true, 'code',
+  7, false, 'kyiv', 'music', 8, 'Tony Stark',
+  false, 999, 3.14, undefined, null, { name: 'max' }, [4, 5, 6],
 ];
 
 const types = {};
