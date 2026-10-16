@@ -1,5 +1,4 @@
 'use strict'
-//ex 6
 const average = (a, b) => {
     return (a + b) / 2;
 };
@@ -11,7 +10,7 @@ const cube = (x) => {
 };
 const calculate = () => {
     const results = [];
-    for (let i = 0; i <= 9; i++) {
+    for (let i = 0; i <= 7; i++) {
         results.push(average(square(i), cube(i)));
     }
     return results;
