@@ -1,5 +1,4 @@
 'use strict'
-//ex 9
 const phones = [
     { name: "Marcus Aurelius", phone: "+380445554433" },
     { name: "Julius Caesar", phone: "+380671112233" },
@@ -17,7 +16,6 @@ const findPhoneByName = (name) => {
 console.log("Cicero's phone is " + findPhoneByName("Cicero"));
 console.log("Nero's phone is " + findPhoneByName("Nero"));
 
-//ex 10
 const phoneBook = {
     "Marcus Aurelius": "+380445554433",
     "Julius Caesar": "+380671112233",
