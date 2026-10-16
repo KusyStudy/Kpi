@@ -1,5 +1,4 @@
 'use strict'
-//ex 4
 const range = (start, end) => {
     const answer = [];
     for (let i = start; i <= end; i++) {
@@ -7,7 +6,7 @@ const range = (start, end) => {
     }
     return answer;
 };
-console.log(range(15, 30));
+console.log(range(12, 48));
 
 //ex 5
 const rangeOdd = (start, end) => {
@@ -21,4 +20,4 @@ const rangeOdd = (start, end) => {
     }
     return answer;
 };
-console.log(rangeOdd(15, 30));
+console.log(rangeOdd(12, 48));
