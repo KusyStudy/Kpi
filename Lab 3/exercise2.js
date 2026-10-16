@@ -10,5 +10,5 @@ const generateKey = (length, characters) => {
 };
 
 const characters = 'abcdefghijklmnopqrstuvwxyz0123456789';
-const key = generateKey(16, characters);
+const key = generateKey(21, characters);
 console.log(key);
