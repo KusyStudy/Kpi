@@ -19,4 +19,3 @@ const persons = {
 };
 
 console.log(ages(persons));
-// { lenin: 54, mao: 83, gandhi: 79, hirohito: 88 }
