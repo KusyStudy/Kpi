@@ -20,4 +20,4 @@ const m = max([
     [7, 8, 9]
 ]);
 
-console.log(m); // 9
+console.log(m);
